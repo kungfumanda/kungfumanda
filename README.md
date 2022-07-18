@@ -1,5 +1,6 @@
-### Hi there ((:
-##### I'm a Computer Science student, currently focusing on Python development. My main goal on IT is finding ways to help other people. My preferred languages are Python and Java, but I'm always learning. Oh, and I'm also a musical theatre performer. (she/her)
+### Hi there ((: I not jack ok
+##### I'm a Computer Science student, currently focusing on Python development. My main goal on IT is finding ways to help other people. My preferred languages are Python and Java, but I'm always learning. Oh, and I'm also a musical theatre performer. (she/her) Hello world
+Hello world before lights out
 ##
 <div align="center">
   <a href="https://github.com/kungfumanda">
