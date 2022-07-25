@@ -1,6 +1,6 @@
 ### Hi there ((:
-##### I'm a Computer Science student and Software Engineer intern, currently focusing on JavaScript and Java development, but I'm always learning. 
-##### My main goal on IT is finding ways to help other people, although I'm still finding my way there, for now I'm usually involved in teaching assistant projects. Oh, and I'm also a musical theatre performer. (she/her)
+#### I'm a Computer Science student and Software Engineer intern, currently focusing on JavaScript and Java development, but I'm always learning. 
+#### My main goal on IT is finding ways to help other people, although I'm still finding my way there, for now I'm usually involved in teaching assistant projects. Oh, and I'm also a musical theatre performer. (she/her)
 ##
 <div align="center">
   <a href="https://github.com/kungfumanda">
