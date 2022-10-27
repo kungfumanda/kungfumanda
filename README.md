@@ -2,9 +2,11 @@
 #### I'm a Computer Science student and Software Engineer intern, currently focusing on JavaScript and Java development, but I'm always learning. 
 #### My main goal on IT is finding ways to help other people, although I'm still finding my way there, for now I'm usually involved in teaching assistant projects. Oh, and I'm also a musical theatre performer. (she/her)
 ##
+
+
 <div align="center">
   <a href="https://github.com/kungfumanda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kungfumanda&show_icons=true&hide_rank=false&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kungfumanda&hide_rank=false&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kungfumanda&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
